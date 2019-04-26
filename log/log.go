@@ -28,7 +28,7 @@ const (
 
 func init() {
 	logrus.AddHook(NewCallInfoHook())
-	logrus.SetFormatter(NewFormatter(true, false))
+	// logrus.SetFormatter(NewFormatter(true, false))
 }
 
 func SetFormatter(formatter logrus.Formatter) {
