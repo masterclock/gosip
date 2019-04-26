@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ghettovoice/gosip/log"
+	"github.com/masterclock/gosip/log"
 )
 
 type ListenerKey string

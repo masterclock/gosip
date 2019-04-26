@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ghettovoice/gosip/log"
-	"github.com/ghettovoice/gosip/transport"
+	"github.com/masterclock/gosip/log"
+	"github.com/masterclock/gosip/transport"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

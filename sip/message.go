@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ghettovoice/gosip/log"
+	"github.com/masterclock/gosip/log"
 )
 
 // A representation of a SIP method.

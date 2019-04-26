@@ -8,11 +8,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ghettovoice/gosip/log"
-	"github.com/ghettovoice/gosip/sip"
-	"github.com/ghettovoice/gosip/sip/parser"
-	"github.com/ghettovoice/gosip/timing"
-	"github.com/ghettovoice/gosip/util"
+	"github.com/masterclock/gosip/log"
+	"github.com/masterclock/gosip/sip"
+	"github.com/masterclock/gosip/sip/parser"
+	"github.com/masterclock/gosip/timing"
+	"github.com/masterclock/gosip/util"
 )
 
 type ConnectionKey string

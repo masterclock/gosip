@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ghettovoice/gosip/sip"
+	"github.com/masterclock/gosip/sip"
 )
 
 const (

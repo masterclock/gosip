@@ -5,11 +5,11 @@ import (
 	"net"
 	"time"
 
-	"github.com/ghettovoice/gosip/sip"
-	"github.com/ghettovoice/gosip/testutils"
-	"github.com/ghettovoice/gosip/timing"
-	"github.com/ghettovoice/gosip/transport"
-	"github.com/ghettovoice/gosip/util"
+	"github.com/masterclock/gosip/sip"
+	"github.com/masterclock/gosip/testutils"
+	"github.com/masterclock/gosip/timing"
+	"github.com/masterclock/gosip/transport"
+	"github.com/masterclock/gosip/util"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

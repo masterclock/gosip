@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ghettovoice/gosip/log"
+	"github.com/masterclock/gosip/log"
 )
 
 // Response RFC 3261 - 7.2.

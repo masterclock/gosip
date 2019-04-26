@@ -7,8 +7,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ghettovoice/gosip/log"
-	"github.com/ghettovoice/gosip/sip"
+	"github.com/masterclock/gosip/log"
+	"github.com/masterclock/gosip/sip"
 )
 
 // TransportLayer layer is responsible for the actual transmission of messages - RFC 3261 - 18.

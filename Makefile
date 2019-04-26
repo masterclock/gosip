@@ -1,5 +1,5 @@
 VERSION=$(shell git describe --tags)
-PKG_NAME=github.com/ghettovoice/gosip
+PKG_NAME=github.com/masterclock/gosip
 LDFLAGS=-ldflags "-X gosip.Version=${VERSION}"
 GOFLAGS=
 

@@ -4,7 +4,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/ghettovoice/gosip/sip"
+	"github.com/masterclock/gosip/sip"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

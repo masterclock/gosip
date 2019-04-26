@@ -4,10 +4,10 @@ import (
 	"net"
 	"sync"
 
-	"github.com/ghettovoice/gosip"
-	"github.com/ghettovoice/gosip/sip"
-	"github.com/ghettovoice/gosip/testutils"
-	"github.com/ghettovoice/gosip/transport"
+	"github.com/masterclock/gosip"
+	"github.com/masterclock/gosip/sip"
+	"github.com/masterclock/gosip/testutils"
+	"github.com/masterclock/gosip/transport"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

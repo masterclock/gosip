@@ -11,9 +11,9 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/ghettovoice/gosip/log"
-	"github.com/ghettovoice/gosip/sip"
-	"github.com/ghettovoice/gosip/util"
+	"github.com/masterclock/gosip/log"
+	"github.com/masterclock/gosip/sip"
+	"github.com/masterclock/gosip/util"
 )
 
 // The whitespace characters recognised by the Augmented Backus-Naur Form syntax

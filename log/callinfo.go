@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"runtime"
 
-	"github.com/ghettovoice/logrus"
+	"github.com/sirupsen/logrus"
 )
 
 const UndefStack = "???"
@@ -33,9 +33,9 @@ func (hook *CallInfoHook) Fire(entry *logrus.Entry) error {
 		file = rel
 	}
 
-	entry.SetField("file", file)
-	entry.SetField("line", line)
-	entry.SetField("func", fn)
+	entry.WithField("file", file)
+	entry.WithField("line", line)
+	entry.WithField("func", fn)
 
 	return nil
 }

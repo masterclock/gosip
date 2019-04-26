@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ghettovoice/gosip/log"
-	"github.com/ghettovoice/gosip/testutils"
-	"github.com/ghettovoice/gosip/transport"
+	"github.com/masterclock/gosip/log"
+	"github.com/masterclock/gosip/testutils"
+	"github.com/masterclock/gosip/transport"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

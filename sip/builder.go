@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ghettovoice/gosip/util"
+	"github.com/masterclock/gosip/util"
 )
 
 type RequestBuilder struct {

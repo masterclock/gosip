@@ -4,7 +4,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/ghettovoice/logrus"
+	"github.com/sirupsen/logrus"
 )
 
 const (

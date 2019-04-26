@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ghettovoice/gosip/log"
+	"github.com/masterclock/gosip/log"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

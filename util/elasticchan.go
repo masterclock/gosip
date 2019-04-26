@@ -2,7 +2,7 @@
 package util
 
 import (
-	"github.com/ghettovoice/gosip/log"
+	"github.com/masterclock/gosip/log"
 )
 
 // The buffer size of the primitive input and output chans.

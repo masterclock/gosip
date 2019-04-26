@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ghettovoice/gosip/sip"
+	"github.com/masterclock/gosip/sip"
 )
 
 const (
